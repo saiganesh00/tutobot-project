@@ -1,0 +1,41 @@
+.course-name{
+    height: 200px;
+    width: 300px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    position: relative;
+    transition: all .3s ease-in-out;
+    img{
+        height: 100%;
+        width: 100%;
+        object-fit: cover; 
+        border-radius: 10px;
+        position: absolute;
+        top: 0;
+        z-index: -1;
+        opacity: rgba(11, 11, 11, 0.575);
+    }
+    
+    h3 {
+        position: absolute;
+        transform: translateX(-50%) translateY(-50%);
+        opacity: 0;
+        top: 50%;
+        transition: all .6s ease-in-out;
+        left: 50%;
+        
+    }
+
+
+    &:hover {
+        scale: 1.05;
+        img {
+            opacity: 0.3;
+            
+        }
+        h3 {
+            opacity: 1;
+        }
+    }
+    
+}
