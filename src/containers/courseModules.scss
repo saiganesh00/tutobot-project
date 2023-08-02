@@ -1,0 +1,39 @@
+
+.courses {
+    height: 100vh;
+    width: 100%;
+    .course-top{
+        height: 60px;
+    }
+    .course-body {        
+        height: calc(100vh - 60px);
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+        .left-component{
+            padding: 20px;
+            height: 90%;
+            width: 30%;
+            border: 2px solid gray;
+            border-radius: 10px 10px;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            overflow-y: auto;
+            .moduleLinks{
+                text-decoration: none;
+            }
+        }
+        .right-component{
+            height: 90%;
+            width: 60%;
+            padding: 10px;
+            border: 2px solid gray;
+            border-radius: 20px;
+            overflow-y: auto;
+        }
+    }
+    
+}

@@ -1,0 +1,8 @@
+.module1,.module2,.module3{
+    padding:10px;
+    text-align: justify;
+    
+}
+.matter{
+    word-wrap: break-word;
+}

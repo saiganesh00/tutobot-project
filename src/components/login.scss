@@ -1,12 +1,12 @@
 .login{
-    .modalBackground {
+    .Background {
         width: 100% !important;
         height: 100vh !important;
         position: fixed;
         display: flex;
         justify-content: center;
         align-items: center;
-        .modalContainer {
+        .Container {
           width: 45% !important;
           height: 65% !important;
           border-radius: 12px;
@@ -31,6 +31,8 @@
         .title {
           display: inline-block;
           text-align: center;
+          height: 20px;
+          color: black;
           margin-top: 10px;
         }
     

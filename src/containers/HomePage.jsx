@@ -24,7 +24,7 @@ const HomePage = () => {
         <Home />
         <About />
         <Courses />
-        <TeamContributors />
+        {/* <TeamContributors /> */}
         <Contact />
         {/* <SignUp/> */}
       </div>

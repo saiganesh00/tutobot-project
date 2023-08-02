@@ -1,0 +1,41 @@
+.learning-container {
+    
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    .top{
+        height: 20%;
+        width: 100%;
+    }
+
+    .your-courses{
+        margin-top: 50px;
+        height: 40%;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        gap: 20px;
+        div{
+            display: flex;
+            gap: 40px;
+        }
+
+    }
+    .other-courses{
+        height: 40%;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 20px;
+        div{
+            display: flex;
+            gap: 20px;
+        }
+        margin-bottom: 20px;
+    }
+}

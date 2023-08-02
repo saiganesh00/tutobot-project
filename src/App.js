@@ -1,16 +1,18 @@
 import React from 'react'
-import HomePage from './containers/HomePage'
+import ContainerRoutes from './containers/ContainerRoutes'
 import { Routes, Route, Link, Switch , BrowserRouter } from 'react-router-dom'
-import Modal from './components/Modal'
-import SignUp from './components/SignUp'
-const App = () => {
 
-  
+import ProfileContainer from './containers/ProfileContainer'
+import ChatContainer from './containers/ChatContainer'
+
+const App = () => {
 
   return (
     <BrowserRouter>
       <div>
-        <HomePage />
+        {/* <ChatContainer /> */}
+        <ContainerRoutes />
+        {/* <ProfileContainer /> */}
       </div>
     </BrowserRouter>
   )

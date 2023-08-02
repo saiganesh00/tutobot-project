@@ -1,0 +1,55 @@
+.projects{
+
+    display: flex;
+    flex-direction: column;
+    gap: 60px;
+    .projects-section{
+        top: 10px;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 20px;
+        .tracks{
+            height: 50px;
+            width: 90%;
+            display: flex;
+            justify-content: space-around;
+            .track-1{
+                cursor: pointer;
+                height: 100%;
+                width: 50%;
+                background-color: antiquewhite;
+                border-right: 2px solid gray;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                border-radius: 5px 0px 0px 5px;
+                h4{
+                    a{
+                        text-decoration: none;
+                    }
+                }
+            }
+    
+            .track-2{
+                cursor: pointer;
+                height: 100%;
+                width: 50%;
+                background-color: antiquewhite;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                border-radius: 0px 5px 5px 0px;
+                h4{
+                    a{
+                        text-decoration: none;
+                    }
+                }
+            }
+        }
+    
+        
+    }
+}

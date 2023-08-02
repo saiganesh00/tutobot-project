@@ -1,0 +1,31 @@
+.levels {
+    display: flex;
+    flex-direction: column;
+    .beginner-level{
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        div{
+            display: flex;
+            gap: 20px;
+        }
+    }
+    .intermediate-level{
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        div{
+            display: flex;
+            gap: 20px;
+        }
+    }
+    .advanced-level{
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        div{
+            display: flex;
+            gap: 20px;
+        }
+    }
+}

@@ -1,0 +1,98 @@
+{
+  "sticky": [
+    {
+      "id": 1,
+      "note": "json-server"
+    },
+    {
+      "note": "jsbdka",
+      "id": 2
+    },
+    {
+      "note": "bbbff",
+      "id": 3
+    },
+    {
+      "note": "fdfdfd",
+      "id": 4
+    },
+    {
+      "note": "adadssac",
+      "id": 5
+    },
+    {
+      "note": "dxacxsc",
+      "id": 6
+    },
+    {
+      "note": "wefrt",
+      "id": 7
+    },
+    {
+      "note": "Zdxfghj",
+      "id": 8
+    },
+    {
+      "note": "asdfgh",
+      "id": 9
+    },
+    {
+      "note": "adqw",
+      "id": 10
+    },
+    {
+      "note": "hi",
+      "id": 11
+    },
+    {
+      "note": "point to be noted",
+      "id": 12
+    },
+    {
+      "note": "this is",
+      "id": 13
+    },
+    {
+      "note": "hello",
+      "id": 14
+    },
+    {
+      "note": "aas",
+      "id": 15
+    },
+    {
+      "note": "Tuto bot team",
+      "id": 16
+    },
+    {
+      "note": "asdfgh",
+      "id": 17
+    },
+    {
+      "note": "hi this is kalyan",
+      "id": 18
+    },
+    {
+      "note": "Hi",
+      "id": 19
+    },
+    {
+      "note": "hello",
+      "id": 20
+    },
+    {
+      "note": "hi ",
+      "id": 21
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

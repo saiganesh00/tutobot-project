@@ -2,7 +2,6 @@ import React from 'react'
 import './home.scss'
 import { useState } from 'react'
 import Modal from './Modal'
-
 const Home = () => {
   const [modalOpen, setModalOpen] = useState(false);
 
@@ -14,6 +13,7 @@ const Home = () => {
             <h1>TutoBot</h1>
             <p> Unlock Your potential with our step by step guidance from our tutorial app</p>
         </div>
+        
         <div className="home-button">
             <button type='button' className='modalBtn' onClick={() => {setModalOpen(true)}}>Get Started</button>
         </div>

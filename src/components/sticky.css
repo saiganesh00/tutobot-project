@@ -1,0 +1,86 @@
+.stickyNotes{
+    height: 300px;
+    width: 310px !important;
+    background: cornflowerblue;
+    position: relative;
+    border-radius: 10px;
+    padding: 5px 10px;
+    overflow-y: scroll ;
+    overscroll-behavior-y: contain;
+  scroll-snap-type: y proximity;
+}
+.stickyNotes::-webkit-scrollbar{
+    scroll-behavior: smooth;
+   
+}
+.bodySticky{
+    height: 100vh;
+    min-width: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: rgb(233, 231, 231);
+}
+.totalSticky{
+    background: cornflowerblue;
+    border-radius: 20px;
+    padding: 5px 10px;
+}
+.stickyNotes .stickyAddPor{
+    position: absolute;
+    bottom: 0px;
+    display: flex;
+    height: 45px;
+    background: rgb(49, 143, 231) !important;
+    border-radius: 20px;
+    width:290px;
+    margin-bottom: 10px;
+    align-items: center;
+    justify-content: space-between;
+}
+.stickyAddPor .stickyInp{
+    outline:none ;
+    border: none;
+    bottom: 3px;
+    color: black;
+    padding: 2px 5px;
+    margin: 5px 10px !important;
+    width:250px;
+    height: 40px !important;
+    border-radius: 10px;
+}
+.stickyAddPor button{
+    border: none;
+    bottom: 18px;
+    right: 20px;
+    padding: 5px 10px;
+    border-radius: 50px;
+    cursor: pointer !important;
+}
+.stickyNotes .note{
+    background: rgb(35, 93, 148);
+    margin: 5px 10px;
+    width:253px !important;
+    word-break: break-all;
+    padding: 5px 10px;
+    color: white;
+    border-radius: 5px;
+    position: relative;
+    z-index: 1;
+}
+.note::before{
+    content: '';
+    background: rgb(35, 93, 148);
+    bottom: 3px;
+    height: 10px;
+    z-index: -1;
+    width: 10px;
+    border-top-right-radius: 50%;
+    left:-4px;
+    transform: rotate(45deg);
+    position: absolute;
+}
+.note:last-child {
+    scroll-snap-align: end;
+  }

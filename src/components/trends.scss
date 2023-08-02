@@ -1,0 +1,18 @@
+.trends {
+    
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    
+
+    div {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 20px !important;
+
+        iframe {
+            border-radius: 20px;
+        }
+    }
+}
