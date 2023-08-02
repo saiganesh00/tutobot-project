@@ -26,7 +26,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 <img width="943" alt="image" src="https://github.com/saiganesh00/tutobot-project/assets/140135125/3e8ba070-0ae4-4df7-8f6f-5f84473f1574">
 
-#Login Pop-up
+# Login Pop-up
 
 <img width="501" alt="Screenshot 2023-04-07 213602" src="https://github.com/saiganesh00/tutobot-project/assets/140135125/36e4d3bc-b0e0-4a91-8407-5e0000f44f2e">
 
