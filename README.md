@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img width="558" alt="Screenshot 2023-04-07 213631" src="https://github.com/saiganesh00/tutobot-project/assets/140135125/550bcf19-ec07-447b-a4db-5732b1720087"><img width="959" alt="Screenshot 2023-04-06 134332" src="https://github.com/saiganesh00/tutobot-project/assets/140135125/ad34de76-66f9-4cae-9a8f-13bcbcd3b5e0">
 
 ## Available Scripts
 
@@ -14,11 +12,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
 ### `npm run build`
 
 Builds the app for production to the `build` folder.\
@@ -29,42 +22,19 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## HOME PAGE
+<img width="943" alt="image" src="https://github.com/saiganesh00/tutobot-project/assets/140135125/3e8ba070-0ae4-4df7-8f6f-5f84473f1574">
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<img width="901" alt="image" src="https://github.com/saiganesh00/tutobot-project/assets/140135125/f3a2777e-1260-401d-9725-e74f7cfc27d1">
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![image](https://github.com/saiganesh00/tutobot-project/assets/140135125/909a2a6d-ab86-4417-84e8-2c69b8aba5fd)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<img width="944" alt="image" src="https://github.com/saiganesh00/tutobot-project/assets/140135125/26d855f1-e5a6-4b97-a007-74131a55e362">
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<img width="959" alt="Screenshot 2023-04-06 134332" src="https://github.com/saiganesh00/tutobot-project/assets/140135125/26435fe0-ac2a-4f44-8f14-9457cd5baf97">
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<img width="960" alt="Screenshot 2023-04-06 134406" src="https://github.com/saiganesh00/tutobot-project/assets/140135125/f378c818-495e-46ef-8788-269e8076a4d2">
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
